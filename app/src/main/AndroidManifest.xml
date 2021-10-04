@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mehedi.multi_social">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".activities.TestActivity"></activity>
+        <activity android:name=".op_activities.NetActivity" />
+        <activity android:name=".op_activities.SplitActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.FodActivity" />
+        <activity android:name=".activities.TwitterActivity" />
+        <activity android:name=".activities.TumbActivity" />
+        <activity android:name=".activities.PintActivity" />
+        <activity android:name=".activities.RedditActivity" />
+        <activity android:name=".activities.GitActivity" />
+        <activity android:name=".activities.LinkedInActivity" />
+        <activity android:name=".activities.InstaActivity" />
+        <activity android:name=".activities.FbActivity" />
+        <activity android:name=".op_activities.MainActivity" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6740898907717893~7080534279" />
+    </application>
+
+</manifest>

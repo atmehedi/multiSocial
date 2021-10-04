@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Multi-Social</string>
+    <string name="fb">fb</string>
+    <string name="insta">Insta</string>
+    <string name="linkDin">linkdIn</string>
+    <string name="please_choose_your_favourite_social_media">Please choose your Favourite Social media.</string>
+    <string name="multi_social_from_mehedi">Multi-Social from Mehedi</string>
+    <string name="theme">Theme</string>
+    <string name="exit">Exit</string>
+    <string name="query">Query</string>
+    <string name="about">About</string>
+    <string name="oops_no_internet_connection">OOPS !!NO INTERNET CONNECTION.</string>
+    <string name="all_social_media_in_one_application">All social media in one application</string>
+    <array name="themes">
+        <item>Dark</item>
+        <item>Light</item>
+    </array>
+    <string name="shared_preferences_file">shared preferences file</string>
+    <string name="open_drawer">drawer open</string>
+    <string name="close_drawer">drawer close</string>
+    <string name="faq">FAQ</string>
+    <string name="report_bug">Report an issue</string>
+    <string name="wish_for_new_featurs_in_the_app">Wish for new featurs in the app</string>
+    <string name="about_multi_social">About multi-social</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ans_its_very_simple_just_choose_one_of_n_social_media_and_enjoy">Ans:- Its very simple ! Just choose one of \n social media and Enjoy</string>
+    <string name="how_to_use_the_multi_social_app">How to use the multi-social App ?</string>
+    <string name="why_use_this_apps">Why use this apps ?</string>
+    <string name="well_its_an_very_simple_and_very_light_app_n_as_compared_with_the_other_social_media_apps">Well ! its an very simple and very light app \n as compared with the other social media apps.</string>
+    <string name="query_about_the_developer">Query About the developer ?</string>
+    <string name="my_name_is_a_t_mehedi_hassan_and_you_can_ask_me_your_questions_in_the_query_area">My Name is A T Mehedi Hassan and you can ask me your questions in the query area .</string>
+    <string name="what_is_benifit_of_this_apps">What is benifit of this apps ?</string>
+    <string name="its_takes_very_tiny_amount_of_space_in_your_device_and_all_the_popular_social_media_are_present_in_a_single_apps">Its takes very tiny amount of space in your device and all the popular social media are present in a single apps.</string>
+    <string name="yes_dark_mode_is_available_for_all_the_devices_even_for_low_end_device_pertially_for_device_having_android_10_its_forced_dark_mode_is_enabled">Yes ! Dark mode is Available for All the devices even for low end device (pertially).For device having android 10 its forced dark mode is enabled .</string>
+    <string name="well_if_kids_have_social_media_account_then_yes">Well ! if Kids have social media account then yes .</string>
+    <string name="is_it_safe_for_kids">Is it safe for Kids ?</string>
+    <string name="is_it_secure_apps">Is it secure apps ?</string>
+    <string name="of_course_in_the_apps_no_record_of_user_is_fatched_all_the_secureline_in_in_the_webview_in_the_social_media_site">Of Course ! in the apps no record of user is fatched all the secureline in in the webView in the social media site .</string>
+    <string name="is_is_a_free_app">Is is a free app ?</string>
+    <string name="its_100_free_application">Its 100% free application .</string>
+    <string name="is_dark_mode_available">Is Dark mode Available ?</string>
+    <string name="try_again">Try Again</string>
+</resources>
